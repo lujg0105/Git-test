@@ -13,3 +13,5 @@ Feature A V2
 Feature A V3
 
 jingguang V4 
+jg v5
+jg v6
