@@ -3,3 +3,4 @@ git hub
 *added feature_a*
 *added feature_b*
 *added feature_c*
+*added feature_d*
