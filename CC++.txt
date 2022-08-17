@@ -1,17 +1,4 @@
-time is now 2:55
-git hub
-*added feature_a*
-*added feature_b*
-*added feature_c*
-*added feature_d*
-*added feature_e*
+Orient technology
+New project 
 
-
-Andy added feature
-Feature A V1
-Feature A V2
-Feature A V3
-
-jingguang V4 
-jg v5
-jg v6
+*Added feature_1*
